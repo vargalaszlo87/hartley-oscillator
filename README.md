@@ -19,4 +19,9 @@ What are the conditions of oscillation? Simple:
 
 **Positive feedback**
 
-In this case the LC tank does not shift pahse at resonant frequency and the feedback comes from source, where the phase of signal matches the phase at the gate of FET. So that is a positive feedback!
+In this case the LC tank does not shift pahse at resonant frequency and the feedback comes from source, where the phase of signal matches the phase at the gate of FET. 🖤 **So that is a positive feedback!** 🖤
+
+**Loop gain**
+
+The full loop amplification (that consists of an open-loop amplification and the feedback factor) is higher as 1. **(A ⋅ β ≥ 1)** 
+

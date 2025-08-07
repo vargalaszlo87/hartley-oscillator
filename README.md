@@ -29,7 +29,7 @@ The full loop amplification (that consists of an open-loop amplification and the
 
 Why is this stage needed? The problem is the load impedance. The hartley oscillator (like most other types) is really sensitive to load impedance. If the impedance of the next stage is not suitable oscillator, for example the oscillation may stop or not start.
 
-The cascode amplifier provides relative fix impedance for the output of hartley oscillator stage. If the load impedance is 50ohm, than the output signal level is Vp = 20mV (If a higher signal level is required due to low load, you can also insert a power amplifier stage at the end of the circuit.), but if the load is higher than 10k, the signal level is Vp = 450mV (that's good for me in this case)
+The cascode amplifier provides relative fix impedance for the output of hartley oscillator stage. If the load impedance is 50ohm, than the output signal level is Vp = 24mV..35mV (If a higher signal level is required due to low load, you can also insert a power amplifier stage at the end of the circuit.), but if the load is higher than 10k, the signal level is Vp = 450mV..650mV. That's good for me in this case.
 
 ## The charts of simulation
 

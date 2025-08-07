@@ -31,6 +31,18 @@ Why is this stage needed? The problem is the load impedance. The hartley oscilla
 
 The cascode amplifier provides relative fix impedance for the output of hartley oscillator stage. If the load impedance is 50ohm, than the output signal level is Vp = 20mV (If a higher signal level is required due to low load, you can also insert a power amplifier stage at the end of the circuit.), but if the load is higher than 10k, the signal level is Vp = 450mV (that's good for me in this case)
 
+## The charts of simulation
+
+### The case of 2.28MHz
+
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/96e62ef3-e8d6-47c5-88d6-392a08de6a1b" />
+
+### The case of 900kHz
+
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/fedc60e9-b992-4e56-ba74-803d1d1547ae" />
+
+
+
 
 
 

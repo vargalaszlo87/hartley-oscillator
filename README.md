@@ -8,6 +8,12 @@ For example you can use it as a local oscillator in a AM radio. (I use in that).
 
 <img width="985" height="708" alt="image" src="https://github.com/user-attachments/assets/40f51c18-bdd2-4258-b09a-6d27808db605" />
 
+## The video of operation
+
+https://youtu.be/kDpDHg27rhc
+
+[![Watch the video](https://img.youtube.com/vi/kDpDHg27rhc/0.jpg)](https://www.youtube.com/watch?v=kDpDHg27rhc)
+
 ## On a breadboard
 
 ![unnamed](https://github.com/user-attachments/assets/4219870d-e37f-405e-ba8f-235f01529c3b)

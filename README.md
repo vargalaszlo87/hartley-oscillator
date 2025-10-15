@@ -52,6 +52,14 @@ The cascode amplifier provides relative fix impedance for the output of hartley 
 
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/84bf0bff-d2a3-4b39-8704-ce4b87e3a25a" />
 
+# Notes
+
+I replaced these elements in the video:
+
+R8: 33k --> 47k
+R7: 470 --> 330
+POT1K: 1k --> 2.2k
+
 
 
 
